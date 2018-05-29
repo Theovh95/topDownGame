@@ -1,0 +1,25 @@
+body{
+	background-color: beige;
+	height: 100%;
+}
+footer{
+	position: absolute;
+	width: 100%;
+	text-align: center;
+	bottom: 0;
+	font-size: 20px;
+	background-color: coral;
+
+}
+#wrapper{
+	width: 85%;
+	margin: 0 auto;
+	background-color: aqua;
+	border: 3px solid blue;
+	box-shadow: 4px 5px grey;
+}
+#game{
+	border: 5px dashed gold;
+	width: 500px;
+	margin: 0 auto;
+}
